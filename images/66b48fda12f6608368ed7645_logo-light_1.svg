@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="99" height="29" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0_44_2">
+   <rect fill="white" height="29" id="svg_1" width="99"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#clip0_44_2)" id="svg_2">
+   <mask height="29" id="mask0_44_2" maskUnits="userSpaceOnUse" width="99" x="0" y="0">
+    <path d="m98.91,0l-98.91,0l0,29l98.91,0l0,-29z" fill="white" id="svg_3"/>
+   </mask>
+   <g id="svg_4" mask="url(#mask0_44_2)">
+    <path d="m17.99,27.96c-0.37,0.58 -1.24,1.04 -1.92,1.04l-8.35,0c-0.68,0 -0.94,-0.47 -0.56,-1.04l9.46,-14.3c0.38,-0.57 1.24,-1.04 1.93,-1.04l8.34,0c0.69,0 0.94,0.47 0.56,1.04l-9.46,14.3z" fill="white" id="svg_8"/>
+    <path d="m9.9,1.04c0.38,-0.57 1.25,-1.04 1.93,-1.04l8.61,0c0.69,0 0.94,0.47 0.56,1.04l-9.73,14.83c-0.38,0.57 -1.24,1.04 -1.93,1.04l-8.61,0c-0.68,0 -0.93,-0.47 -0.56,-1.04l9.73,-14.83z" fill="white" id="svg_9"/>
+   </g>
+  </g>
+ </g>
+</svg>
